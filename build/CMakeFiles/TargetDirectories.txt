@@ -1,0 +1,3 @@
+/Users/faisalusmani/Documents/Udacity/selfDriving/Udacity-Kidnapped-Vehicle/build/CMakeFiles/rebuild_cache.dir
+/Users/faisalusmani/Documents/Udacity/selfDriving/Udacity-Kidnapped-Vehicle/build/CMakeFiles/edit_cache.dir
+/Users/faisalusmani/Documents/Udacity/selfDriving/Udacity-Kidnapped-Vehicle/build/CMakeFiles/particle_filter.dir
